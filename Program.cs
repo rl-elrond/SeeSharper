@@ -389,4 +389,4 @@ namespace _Tag_02_Aufgabe3
             while (Console.ReadKey(true).Key != ConsoleKey.N);
         }
     }
-}
+} //besserer ansatz wären direkt zwei arrays für die verschiedenen Datentypen als behälter zu initialisieren und dann mit foreach (<datentyp> <neuer name für jedes Element> in <arrayname>)
